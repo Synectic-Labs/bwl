@@ -1,7 +1,7 @@
 # BWL. A user-friendly combat and utility system for Lusternia written in Lua for Mudlet.
 
+BWL is a complete rewrite of Outpost with a focus on user experience, stability and seamless updates.
 
-A rewrite of Outpost with a focus on user experience and stability.
 
 ## Installation Instructions:
 
